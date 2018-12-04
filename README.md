@@ -1,1 +1,20 @@
-# CSPTest1
+
+<html>
+  <title>Sample Website #1</title>
+  <body bgcolor=orange>
+    <h1 style="color:red">My First Website</h1>
+    <p style="color:green">Hello World!  This is my first website.  Yay!
+    <p>Here is another paragraph of text.
+    <hr>
+    <h2>A subsection title here</h2>
+    <p style="color:blue">And here is another paragraph.
+    Notice that spacing doesn't really matter.
+    Everything is printed on one line on the page.
+    Even though in the code, these are all separate lines.
+    <p>If you want a new line, you need to use another paragraph tag.
+    <p>See.
+    <hr>
+    Copyright (C) 2018.  All rights reserved.
+  </body>
+</html>
+<img
